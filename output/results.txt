@@ -1,0 +1,2 @@
+J_train: 0.007816665, J_test: 0.033911403
+accuracy_train: 0.9976166666666667, accuracy_test: 0.9895
